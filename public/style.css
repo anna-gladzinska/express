@@ -1,0 +1,13 @@
+h1 {
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.dark {
+    background: #261C19;
+    color: #F8F3D3;
+}
+
+.dark a {
+    color: #F8F3D3;
+}
